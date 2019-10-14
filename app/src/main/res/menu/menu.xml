@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group
+            android:id="@+id/itemBotNav">
+            <item   android:id="@+id/Movies"
+                    android:title="@string/movies"
+                    android:icon="@drawable/ic_local_movies_black_24dp"/>
+            <item   android:id="@+id/Tv"
+                android:title="@string/tv"
+                android:icon="@drawable/ic_live_tv_black_24dp"/>
+        </group>
+</menu>
